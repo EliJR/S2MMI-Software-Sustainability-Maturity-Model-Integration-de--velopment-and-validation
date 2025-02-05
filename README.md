@@ -1,1 +1,1 @@
-# S2MMI-Software-Sustainability-Maturity-Model-Integration-de--velopment-and-validation
+# S2MMI: Software Sustainability Maturity Model Integration, Development and Validation
